@@ -5,21 +5,25 @@
  */
 
 // @lc code=start
-class Solution {
+class Solution
+{
 public:
-    string longestCommonPrefix(vector<string>& strs) {
-        string ans=strs[0];
+    string longestCommonPrefix(vector<string> &strs)
+    {
+        string ans = strs[0];
         int j;
-        for (int i=1;i<strs.size();i++){
-            for(j=0;j<ans.length();j++){
-                if(ans[j] != strs[i][j]){
+        for (int i = 1; i < strs.size(); i++)
+        {
+            for (j = 0; j < min(strs[i].length(), ans.length()); j++)
+            {
+                if (ans[j] != strs[i][j])
+                {
                     break;
                 }
             }
-            ans=ans.substr(0,j);
+            ans = ans.substr(0, j);
         }
-      return ans;
+        return ans;
     }
 };
 // @lc code=end
-
