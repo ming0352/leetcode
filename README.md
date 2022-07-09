@@ -14,10 +14,8 @@ LeetCode solution
 |27|[remove-element](https://leetcode.com/problems/remove-element/) | [C++](./algorithms/cpp/27.remove-element.cpp)|Easy|
 |28|[implement-str-str](https://leetcode.com/problems/implement-str-str/) | [C++](./algorithms/cpp/28.implement-str-str.cpp)|Easy|
 |28|[implement-str-str](https://leetcode.com/problems/implement-str-str/) | [C++](./algorithms/cpp/28.implement-str-str.cpp)|Easy|
+|35|[search-insert-position](https://leetcode.com/problems/search-insert-position/) | [C++](./algorithms/cpp/35.search-insert-position.cpp)|Easy|
+|58|[length-of-last-word](https://leetcode.com/problems/length-of-last-word/) | [C++](./algorithms/cpp/58.length-of-last-word.cpp)|Easy|
+|66|[plus-one](https://leetcode.com/problems/plus-one/) | [C++](./algorithms/cpp/66.plus-one.cpp)|Easy|
+|67|[add-binary](https://leetcode.com/problems/add-binary/) | [C++](./algorithms/cpp/67.add-binary.cpp)|Easy|
 |69|[sqrt-x](https://leetcode.com/problems/sqrt-x/) | [C++](./algorithms/cpp/69.sqrt-x.cpp)|Easy|
-
-
-
-
-
-
