@@ -20,3 +20,4 @@ LeetCode solution
 |69|[sqrt-x](https://leetcode.com/problems/sqrtx/) | [C++](./algorithms/cpp/69.sqrt-x.cpp)|Easy|
 |15|[3-sum](https://leetcode.com/problems/3sum/) | [C++](./algorithms/cpp/15.3-sum.cpp)|Medium|
 |16|[3-sum-closest](https://leetcode.com/problems/3sum-closest/) | [C++](./algorithms/cpp/16.3-sum-closest.cpp)|Medium|
+|36|[valid-sudoku](https://leetcode.com/problems/valid-sudoku/) | [C++](./algorithms/cpp/36.valid-sudoku.cpp)|Medium|
