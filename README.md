@@ -21,3 +21,8 @@ LeetCode solution
 |15|[3-sum](https://leetcode.com/problems/3sum/) | [C++](./algorithms/cpp/15.3-sum.cpp)|Medium|
 |16|[3-sum-closest](https://leetcode.com/problems/3sum-closest/) | [C++](./algorithms/cpp/16.3-sum-closest.cpp)|Medium|
 |36|[valid-sudoku](https://leetcode.com/problems/valid-sudoku/) | [C++](./algorithms/cpp/36.valid-sudoku.cpp)|Medium|
+|3|[longest-substring-without-repeating-characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [C++](./algorithms/cpp/3.longest-substring-without-repeating-characters.cpp)|Medium|
+|209|[minimum-size-subarray-sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | [C++](./algorithms/cpp/209.minimum-size-subarray-sum.cpp)|Medium|
+|283|[move-zeroes](https://leetcode.com/problems/move-zeroes/) | [C++](./algorithms/cpp/283.move-zeroes.cpp)|Easy|
+|844|[backspace-string-compare](https://leetcode.com/problems/backspace-string-compare/) | [C++](./algorithms/cpp/844.backspace-string-compare.cpp)|Easy|
+|977|[squares-of-a-sorted-array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [C++](./algorithms/cpp/977.squares-of-a-sorted-array.cpp)|Easy|
