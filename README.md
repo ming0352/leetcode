@@ -32,3 +32,5 @@ LeetCode solution
 |203|[remove-linked-list-elements](https://leetcode.com/problems/remove-linked-list-elements/) | [C++](./algorithms/cpp/203.remove-linked-list-elements.cpp)|Easy|
 |206|[reverse-linked-list](https://leetcode.com/problems/reverse-linked-list/) | [C++](./algorithms/cpp/206.reverse-linked-list.cpp)|Easy|
 |707|[design-linked-list](https://leetcode.com/problems/design-linked-list/) | [C++](./algorithms/cpp/707.design-linked-list.cpp)|Easy|
+|19|[remove-nth-node-from-end-of-list](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [C++](./algorithms/cpp/19.remove-nth-node-from-end-of-list.cpp)|Medium|
+|142|[linked-list-cycle-ii](https://leetcode.com/problems/linked-list-cycle-ii/) | [C++](./algorithms/cpp/142.linked-list-cycle-ii.cpp)|Medium|
