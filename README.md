@@ -26,3 +26,5 @@ LeetCode solution
 |283|[move-zeroes](https://leetcode.com/problems/move-zeroes/) | [C++](./algorithms/cpp/283.move-zeroes.cpp)|Easy|
 |844|[backspace-string-compare](https://leetcode.com/problems/backspace-string-compare/) | [C++](./algorithms/cpp/844.backspace-string-compare.cpp)|Easy|
 |977|[squares-of-a-sorted-array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [C++](./algorithms/cpp/977.squares-of-a-sorted-array.cpp)|Easy|
+|54|[spiral-matrix](https://leetcode.com/problems/spiral-matrix/) | [C++](./algorithms/cpp/54.spiral-matrix.cpp)|Medium|
+|59|[spiral-matrix-ii](https://leetcode.com/problems/spiral-matrix-ii/) | [C++](./algorithms/cpp/59.spiral-matrix-ii.cpp)|Medium|
