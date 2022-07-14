@@ -28,3 +28,7 @@ LeetCode solution
 |977|[squares-of-a-sorted-array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [C++](./algorithms/cpp/977.squares-of-a-sorted-array.cpp)|Easy|
 |54|[spiral-matrix](https://leetcode.com/problems/spiral-matrix/) | [C++](./algorithms/cpp/54.spiral-matrix.cpp)|Medium|
 |59|[spiral-matrix-ii](https://leetcode.com/problems/spiral-matrix-ii/) | [C++](./algorithms/cpp/59.spiral-matrix-ii.cpp)|Medium|
+|24|[spiral-matrix-ii](https://leetcode.com/problems/swap-nodes-in-pairs/) | [C++](./algorithms/cpp/24.swap-nodes-in-pairs.cpp)|Medium|
+|203|[remove-linked-list-elements](https://leetcode.com/problems/remove-linked-list-elements/) | [C++](./algorithms/cpp/203.remove-linked-list-elements.cpp)|Easy|
+|206|[reverse-linked-list](https://leetcode.com/problems/reverse-linked-list/) | [C++](./algorithms/cpp/206.reverse-linked-list.cpp)|Easy|
+|707|[design-linked-list](https://leetcode.com/problems/design-linked-list/) | [C++](./algorithms/cpp/707.design-linked-list.cpp)|Easy|
