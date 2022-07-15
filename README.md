@@ -34,3 +34,7 @@ LeetCode solution
 |707|[design-linked-list](https://leetcode.com/problems/design-linked-list/) | [C++](./algorithms/cpp/707.design-linked-list.cpp)|Easy|
 |19|[remove-nth-node-from-end-of-list](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [C++](./algorithms/cpp/19.remove-nth-node-from-end-of-list.cpp)|Medium|
 |142|[linked-list-cycle-ii](https://leetcode.com/problems/linked-list-cycle-ii/) | [C++](./algorithms/cpp/142.linked-list-cycle-ii.cpp)|Medium|
+|34|[find-first-and-last-position-of-element-in-sorted-array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array) | [C++](./algorithms/cpp/34.find-first-and-last-position-of-element-in-sorted-array.cpp)|Medium|
+|242|[valid-anagram](https://leetcode.com/problems/valid-anagram) | [C++](./algorithms/cpp/242.valid-anagram.cpp)|Easy|
+|349|[intersection-of-two-arrays](https://leetcode.com/problems/intersection-of-two-arrays) | [C++](./algorithms/cpp/349.intersection-of-two-arrays.cpp)|Easy|
+|1002|[find-common-characters](https://leetcode.com/problems/find-common-characters) | [C++](./algorithms/cpp/1002.find-common-characters.cpp)|Easy|
