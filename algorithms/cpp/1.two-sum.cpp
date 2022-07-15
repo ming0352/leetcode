@@ -31,8 +31,7 @@ class Solution {
     vector<int> answer;
     unordered_map<int, int> hash;
     for (int i = 0; i < nums.size(); i++) {
-      if (hash.find(target - nums[i]) != hash.end() &&
-          i != hash[target - nums[i]]) {
+      if (hash.find(target - nums[i]) != hash.end()) {
         answer.emplace_back(i);
         answer.emplace_back(hash[target - nums[i]]);
         break;
