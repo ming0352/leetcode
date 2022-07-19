@@ -38,3 +38,4 @@ LeetCode solution
 |242|[valid-anagram](https://leetcode.com/problems/valid-anagram) | [C++](./algorithms/cpp/242.valid-anagram.cpp)|Easy|
 |349|[intersection-of-two-arrays](https://leetcode.com/problems/intersection-of-two-arrays) | [C++](./algorithms/cpp/349.intersection-of-two-arrays.cpp)|Easy|
 |1002|[find-common-characters](https://leetcode.com/problems/find-common-characters) | [C++](./algorithms/cpp/1002.find-common-characters.cpp)|Easy|
+|202|[happy-number](https://leetcode.com/problems/happy-number) | [C++](./algorithms/cpp/202.happy-number.cpp)|Easy|
