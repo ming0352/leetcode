@@ -40,3 +40,7 @@ LeetCode solution
 |1002|[find-common-characters](https://leetcode.com/problems/find-common-characters) | [C++](./algorithms/cpp/1002.find-common-characters.cpp)|Easy|
 |202|[happy-number](https://leetcode.com/problems/happy-number) | [C++](./algorithms/cpp/202.happy-number.cpp)|Easy|
 |454|[4-sum-ii](https://leetcode.com/problems/4sum-ii) | [C++](./algorithms/cpp/454.4-sum-ii.cpp)|Medium|
+|18|[4-sum](https://leetcode.com/problems/4sum) | [C++](./algorithms/cpp/18.4-sum.cpp)|Medium|
+|344|[reverse-string](https://leetcode.com/problems/reverse-string) | [C++](./algorithms/cpp/344.reverse-string.cpp)|Easy|
+|383|[ransom-note](https://leetcode.com/problems/ransom-note) | [C++](./algorithms/cpp/383.ransom-note.cpp)|Easy|
+|541|[reverse-string-ii](https://leetcode.com/problems/reverse-string-ii) | [C++](./algorithms/cpp/541.reverse-string-ii.cpp)|Easy|
