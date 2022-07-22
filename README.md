@@ -44,3 +44,6 @@ LeetCode solution
 |344|[reverse-string](https://leetcode.com/problems/reverse-string) | [C++](./algorithms/cpp/344.reverse-string.cpp)|Easy|
 |383|[ransom-note](https://leetcode.com/problems/ransom-note) | [C++](./algorithms/cpp/383.ransom-note.cpp)|Easy|
 |541|[reverse-string-ii](https://leetcode.com/problems/reverse-string-ii) | [C++](./algorithms/cpp/541.reverse-string-ii.cpp)|Easy|
+|86|[partition-list](https://leetcode.com/problems/partition-list/) | [C++](./algorithms/cpp/86.partition-list.cpp)|Medium|
+|92|[reverse-linked-list-ii](https://leetcode.com/problems/reverse-linked-list-ii) | [C++](./algorithms/cpp/92.reverse-linked-list-ii.cpp)|Medium|
+|151|[reverse-words-in-a-string](https://leetcode.com/problems/reverse-words-in-a-string) | [C++](./algorithms/cpp/151.reverse-words-in-a-string.cpp)|Medium|
