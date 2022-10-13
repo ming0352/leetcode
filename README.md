@@ -57,3 +57,4 @@ LeetCode solution
 | 334  | [increasing-triplet-subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/)                                                  | [C++](./algorithms/cpp/334.increasing-triplet-subsequence.cpp)                         | Medium     |
 | 976 | [largest-perimeter-triangle](https://leetcode.com/problems/largest-perimeter-triangle/)                              | [C++](./algorithms/cpp/976.largest-perimeter-triangle.cpp)              | Easy       |
 | 237  | [delete-node-in-a-linked-list](https://leetcode.com/problems/delete-node-in-a-linked-list/)                             | [C++](./algorithms/cpp/237.delete-node-in-a-linked-list.cpp)                         | Medium     |
+| 150  | [evaluate-reverse-polish-notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)                             | [C++](./algorithms/cpp/150.evaluate-reverse-polish-notation.cpp)                         | Medium     |
