@@ -58,3 +58,4 @@ LeetCode solution
 | 976 | [largest-perimeter-triangle](https://leetcode.com/problems/largest-perimeter-triangle/)                              | [C++](./algorithms/cpp/976.largest-perimeter-triangle.cpp)              | Easy       |
 | 237  | [delete-node-in-a-linked-list](https://leetcode.com/problems/delete-node-in-a-linked-list/)                             | [C++](./algorithms/cpp/237.delete-node-in-a-linked-list.cpp)                         | Medium     |
 | 150  | [evaluate-reverse-polish-notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)                             | [C++](./algorithms/cpp/150.evaluate-reverse-polish-notation.cpp)                         | Medium     |
+|  2095 | [evaluate-reverse-polish-notation](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/)                             | [C++](./algorithms/cpp/2095.delete-the-middle-node-of-a-linked-list.cpp)                         | Medium     |
