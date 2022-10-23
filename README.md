@@ -61,3 +61,4 @@ LeetCode solution
 |  2095 | [delete-the-middle-node-of-a-linked-list](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/)                             | [C++](./algorithms/cpp/2095.delete-the-middle-node-of-a-linked-list.cpp)                         | Medium     |
 |  239 | [sliding-window-maximum](https://leetcode.com/problems/sliding-window-maximum/) | [C++](./algorithms/cpp/239.sliding-window-maximum.cpp)                         | Hard     |
 |  347 | [top-k-frequent-elements](https://leetcode.com/problems/top-k-frequent-elements/) | [C++](./algorithms/cpp/347.top-k-frequent-elements.cpp)                         | Medium     |
+|  645 | [set-mismatch](https://leetcode.com/problems/set-mismatch/) | [C++](./algorithms/cpp/645.set-mismatch.cpp)                         | Easy     |
