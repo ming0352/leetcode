@@ -60,3 +60,4 @@ LeetCode solution
 | 150  | [evaluate-reverse-polish-notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)                             | [C++](./algorithms/cpp/150.evaluate-reverse-polish-notation.cpp)                         | Medium     |
 |  2095 | [delete-the-middle-node-of-a-linked-list](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/)                             | [C++](./algorithms/cpp/2095.delete-the-middle-node-of-a-linked-list.cpp)                         | Medium     |
 |  239 | [sliding-window-maximum](https://leetcode.com/problems/sliding-window-maximum/) | [C++](./algorithms/cpp/239.sliding-window-maximum.cpp)                         | Hard     |
+|  347 | [top-k-frequent-elements](https://leetcode.com/problems/top-k-frequent-elements/) | [C++](./algorithms/cpp/347.top-k-frequent-elements.cpp)                         | Medium     |
