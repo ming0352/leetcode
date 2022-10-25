@@ -16,7 +16,8 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
-class Solution
+//方法一
+/*class Solution
 {
 public:
     vector<int> inorder;
@@ -29,6 +30,33 @@ public:
             inorderTraversal(root->right);
         }
         return inorder;
+    }
+};*/
+//方法二
+class Solution
+{
+public:
+    vector<int> inorderTraversal(TreeNode *root)
+    {
+        stack<TreeNode *> st;
+        vector<int> ans;
+        TreeNode *cur = root;
+        while (cur != nullptr || !st.empty())
+        {
+            if (cur)
+            {
+                st.push(cur);
+                cur = cur->left;
+            }
+            else
+            {
+                cur = st.top();
+                st.pop();
+                ans.emplace_back(cur->val);
+                cur = cur->right;
+            }
+        }
+        return ans;
     }
 };
 // @lc code=end
