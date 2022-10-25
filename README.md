@@ -63,3 +63,6 @@ LeetCode solution
 |  347 | [top-k-frequent-elements](https://leetcode.com/problems/top-k-frequent-elements/) | [C++](./algorithms/cpp/347.top-k-frequent-elements.cpp)                         | Medium     |
 |  645 | [set-mismatch](https://leetcode.com/problems/set-mismatch/) | [C++](./algorithms/cpp/645.set-mismatch.cpp)                         | Easy     |
 |  1662 | [check-if-two-string-arrays-are-equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent) | [C++](./algorithms/cpp/1662.check-if-two-string-arrays-are-equivalent.cpp)                         | Easy     |
+|  94 | [binary-tree-inorder-traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [C++](./algorithms/cpp/94.binary-tree-inorder-traversal.cpp)                         | Easy     |
+|  144 | [binary-tree-preorder-traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [C++](./algorithms/cpp/144.binary-tree-preorder-traversal.cpp)                         | Easy     |
+|  145 | [binary-tree-postorder-traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [C++](./algorithms/cpp/145.binary-tree-postorder-traversal.cpp)                         | Easy     |
