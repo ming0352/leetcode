@@ -66,4 +66,6 @@ LeetCode solution
 |  94 | [binary-tree-inorder-traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [C++](./algorithms/cpp/94.binary-tree-inorder-traversal.cpp)                         | Easy     |
 |  144 | [binary-tree-preorder-traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [C++](./algorithms/cpp/144.binary-tree-preorder-traversal.cpp)                         | Easy     |
 |  145 | [binary-tree-postorder-traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [C++](./algorithms/cpp/145.binary-tree-postorder-traversal.cpp)                         | Easy     |
-|  1544 | [Make The String Great](https://leetcode.com/problems/make-the-string-great/) | [C++](./algorithms/cpp/1544.make-the-string-great.cpp)                         | Easy     |
+|  98 | [validate-binary-search-tree](https://leetcode.com/problems/validate-binary-search-tree/) | [C++](./algorithms/cpp/98.validate-binary-search-tree.cpp)                         | Medium     |
+|  1544 | [Make The String Great](https://leetcode.com/problems/make-the-string-great/) | [C++](./algorithms/cpp/1544.make-the-string-great.
+cpp)                         | Easy     |
