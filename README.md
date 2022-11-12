@@ -79,3 +79,4 @@ LeetCode solution
 | 104  | [maximum-depth-of-binary-tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)                                            | [C++](./algorithms/cpp/104.maximum-depth-of-binary-tree.cpp)                      | Easy     |
 | 111  | [minimum-depth-of-binary-tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)                                            | [C++](./algorithms/cpp/111.minimum-depth-of-binary-tree.cpp)                      | Easy     |
 | 226  | [invert-binary-tree](https://leetcode.com/problems/invert-binary-tree/)                                            | [C++](./algorithms/cpp/226.invert-binary-tree.cpp)                      | Easy     |
+| 101  | [symmetric-tree](https://leetcode.com/problems/symmetric-tree/)                                            | [C++](./algorithms/cpp/101.symmetric-tree.cpp)                      | Easy     |
