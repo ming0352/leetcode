@@ -80,3 +80,6 @@ LeetCode solution
 | 111  | [minimum-depth-of-binary-tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)                                            | [C++](./algorithms/cpp/111.minimum-depth-of-binary-tree.cpp)                      | Easy     |
 | 226  | [invert-binary-tree](https://leetcode.com/problems/invert-binary-tree/)                                            | [C++](./algorithms/cpp/226.invert-binary-tree.cpp)                      | Easy     |
 | 101  | [symmetric-tree](https://leetcode.com/problems/symmetric-tree/)                                            | [C++](./algorithms/cpp/101.symmetric-tree.cpp)                      | Easy     |
+| 222  | [ Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)                                            | [C++](./algorithms/cpp/222.count-complete-tree-nodes.cpp)                      | Medium     |
+| 110  | [balanced-binary-tree](https://leetcode.com/problems/balanced-binary-tree/)                                            | [C++](./algorithms/cpp/110.balanced-binary-tree.cpp)                      | Easy     |
+| 257  | [binary-tree-paths](https://leetcode.com/problems/binary-tree-paths/)                                            | [C++](./algorithms/cpp/257.binary-tree-paths.cpp)                      | Easy     |
