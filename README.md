@@ -83,3 +83,4 @@ LeetCode solution
 | 222  | [ Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)                                            | [C++](./algorithms/cpp/222.count-complete-tree-nodes.cpp)                      | Medium     |
 | 110  | [balanced-binary-tree](https://leetcode.com/problems/balanced-binary-tree/)                                            | [C++](./algorithms/cpp/110.balanced-binary-tree.cpp)                      | Easy     |
 | 257  | [binary-tree-paths](https://leetcode.com/problems/binary-tree-paths/)                                            | [C++](./algorithms/cpp/257.binary-tree-paths.cpp)                      | Easy     |
+| 404  | [sum-of-left-leaves](https://leetcode.com/problems/sum-of-left-leaves/)                                            | [C++](./algorithms/cpp/404.sum-of-left-leaves.cpp)                      | Easy     |
