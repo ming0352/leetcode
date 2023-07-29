@@ -1,6 +1,6 @@
 LeetCode solution 
 ========
-![LeetCode Stats](https://leetcard.jacoblin.cool/ming0352?theme=light&font=Rambla)
+![LeetCode Stats](https://leetcard.jacoblin.cool/ming0352?theme=light&font=Rambla)  
 [![Travis](https://img.shields.io/badge/language-C++-green.svg)]()
 ### LeetCode Algorithm
 | #    | Title                                                                                                                                            | Solution                                                                               | Difficulty |
