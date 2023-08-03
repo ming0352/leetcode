@@ -106,3 +106,4 @@ LeetCode solution
 | 108  | [convert-sorted-array-to-binary-search-tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)                                            | [C++](./algorithms/cpp/108.convert-sorted-array-to-binary-search-tree.cpp)                      | Easy     |
 | 538  | [convert-bst-to-greater-tree](https://leetcode.com/problems/convert-bst-to-greater-tree/)                                            | [C++](./algorithms/cpp/538.convert-bst-to-greater-tree.cpp)                      | Medium     |
 | 77  | [combinations](https://leetcode.com/problems/combinations/)                                            | [C++](./algorithms/cpp/77.combinations.cpp)                      | Medium     |
+| 216  | [combination-sum-iii](https://leetcode.com/problems/combination-sum-iii/)                                            | [C++](./algorithms/cpp/216.combination-sum-iii.cpp)                      | Medium     |
