@@ -108,3 +108,5 @@ LeetCode solution
 | 77  | [combinations](https://leetcode.com/problems/combinations/)                                            | [C++](./algorithms/cpp/77.combinations.cpp)                      | Medium     |
 | 216  | [combination-sum-iii](https://leetcode.com/problems/combination-sum-iii/)                                            | [C++](./algorithms/cpp/216.combination-sum-iii.cpp)                      | Medium     |
 | 17  | [letter-combinations-of-a-phone-number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)                                            | [C++](./algorithms/cpp/17.letter-combinations-of-a-phone-number.cpp)                      | Medium     |
+| 39  | [letter-combinations-of-a-phone-number](https://leetcode.com/problems/combination-sum/)                                            | [C++](./algorithms/cpp/39.combination-sum.cpp)                      | Medium     |
+| 40  | [combination-sum-ii](https://leetcode.com/problems/combination-sum-ii/)                                            | [C++](./algorithms/cpp/40.combination-sum-ii.cpp)                      | Medium     |
