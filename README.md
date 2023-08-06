@@ -110,3 +110,4 @@ LeetCode solution
 | 17  | [letter-combinations-of-a-phone-number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)                                            | [C++](./algorithms/cpp/17.letter-combinations-of-a-phone-number.cpp)                      | Medium     |
 | 39  | [letter-combinations-of-a-phone-number](https://leetcode.com/problems/combination-sum/)                                            | [C++](./algorithms/cpp/39.combination-sum.cpp)                      | Medium     |
 | 40  | [combination-sum-ii](https://leetcode.com/problems/combination-sum-ii/)                                            | [C++](./algorithms/cpp/40.combination-sum-ii.cpp)                      | Medium     |
+| 131  | [palindrome-partitioning](https://leetcode.com/problems/palindrome-partitioning/)                                            | [C++](./algorithms/cpp/131.palindrome-partitioning.cpp)                      | Medium     |
