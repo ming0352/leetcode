@@ -113,3 +113,4 @@ LeetCode solution
 | 131  | [palindrome-partitioning](https://leetcode.com/problems/palindrome-partitioning/)                                            | [C++](./algorithms/cpp/131.palindrome-partitioning.cpp)                      | Medium     |
 | 93  | [restore-ip-addresses](https://leetcode.com/problems/restore-ip-addresses/)                                            | [C++](./algorithms/cpp/93.restore-ip-addresses.cpp)                      | Medium     |
 | 78  | [subsets](https://leetcode.com/problems/subsets/)                                            | [C++](./algorithms/cpp/78.subsets.cpp)                      | Medium     |
+| 90  | [subsets-ii](https://leetcode.com/problems/subsets-ii/)                                            | [C++](./algorithms/cpp/90.subsets-ii.cpp)                      | Medium     |
