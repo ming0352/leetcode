@@ -112,3 +112,4 @@ LeetCode solution
 | 40  | [combination-sum-ii](https://leetcode.com/problems/combination-sum-ii/)                                            | [C++](./algorithms/cpp/40.combination-sum-ii.cpp)                      | Medium     |
 | 131  | [palindrome-partitioning](https://leetcode.com/problems/palindrome-partitioning/)                                            | [C++](./algorithms/cpp/131.palindrome-partitioning.cpp)                      | Medium     |
 | 93  | [restore-ip-addresses](https://leetcode.com/problems/restore-ip-addresses/)                                            | [C++](./algorithms/cpp/93.restore-ip-addresses.cpp)                      | Medium     |
+| 78  | [subsets](https://leetcode.com/problems/subsets/)                                            | [C++](./algorithms/cpp/78.subsets.cpp)                      | Medium     |
