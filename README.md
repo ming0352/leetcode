@@ -116,3 +116,4 @@ LeetCode solution
 | 90  | [subsets-ii](https://leetcode.com/problems/subsets-ii/)                                            | [C++](./algorithms/cpp/90.subsets-ii.cpp)                      | Medium     |
 | 491  | [non-decreasing-subsequences](https://leetcode.com/problems/non-decreasing-subsequences/)                                            | [C++](./algorithms/cpp/491.non-decreasing-subsequences.cpp)                      | Medium     |
 | 46  | [permutations](https://leetcode.com/problems/permutations/)                                            | [C++](./algorithms/cpp/46.permutations.cpp)                      | Medium     |
+| 47  | [permutations-ii](https://leetcode.com/problems/permutations-ii/)                                            | [C++](./algorithms/cpp/47.permutations-ii.cpp)                      | Medium     |
