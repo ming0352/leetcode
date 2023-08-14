@@ -118,3 +118,4 @@ LeetCode solution
 | 46  | [permutations](https://leetcode.com/problems/permutations/)                                            | [C++](./algorithms/cpp/46.permutations.cpp)                      | Medium     |
 | 47  | [permutations-ii](https://leetcode.com/problems/permutations-ii/)                                            | [C++](./algorithms/cpp/47.permutations-ii.cpp)                      | Medium     |
 | 455  | [assign-cookies](https://leetcode.com/problems/assign-cookies/)                                            | [C++](./algorithms/cpp/455.assign-cookies.cpp)                      | Easy     |
+| 376  | [wiggle-subsequence](https://leetcode.com/problems/wiggle-subsequence/)                                            | [C++](./algorithms/cpp/376.wiggle-subsequence.cpp)                      | Medium     |
