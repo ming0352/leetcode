@@ -119,3 +119,4 @@ LeetCode solution
 | 47  | [permutations-ii](https://leetcode.com/problems/permutations-ii/)                                            | [C++](./algorithms/cpp/47.permutations-ii.cpp)                      | Medium     |
 | 455  | [assign-cookies](https://leetcode.com/problems/assign-cookies/)                                            | [C++](./algorithms/cpp/455.assign-cookies.cpp)                      | Easy     |
 | 376  | [wiggle-subsequence](https://leetcode.com/problems/wiggle-subsequence/)                                            | [C++](./algorithms/cpp/376.wiggle-subsequence.cpp)                      | Medium     |
+| 53  | [maximum-subarray](https://leetcode.com/problems/maximum-subarray/)                                            | [C++](./algorithms/cpp/53.maximum-subarray.cpp)                      | Medium     |
