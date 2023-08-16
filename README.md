@@ -121,3 +121,4 @@ LeetCode solution
 | 376  | [wiggle-subsequence](https://leetcode.com/problems/wiggle-subsequence/)                                            | [C++](./algorithms/cpp/376.wiggle-subsequence.cpp)                      | Medium     |
 | 53  | [maximum-subarray](https://leetcode.com/problems/maximum-subarray/)                                            | [C++](./algorithms/cpp/53.maximum-subarray.cpp)                      | Medium     |
 | 122  | [best-time-to-buy-and-sell-stock-ii](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)                                            | [C++](./algorithms/cpp/122.best-time-to-buy-and-sell-stock-ii.cpp)                      | Medium     |
+| 55  | [jump-game](https://leetcode.com/problems/jump-game/)                                            | [C++](./algorithms/cpp/55.jump-game.cpp)                      | Medium     |
