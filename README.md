@@ -123,3 +123,4 @@ LeetCode solution
 | 122  | [best-time-to-buy-and-sell-stock-ii](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)                                            | [C++](./algorithms/cpp/122.best-time-to-buy-and-sell-stock-ii.cpp)                      | Medium     |
 | 55  | [jump-game](https://leetcode.com/problems/jump-game/)                                            | [C++](./algorithms/cpp/55.jump-game.cpp)                      | Medium     |
 | 45  | [jump-game-ii](https://leetcode.com/problems/jump-game-ii/)                                            | [C++](./algorithms/cpp/45.jump-game-ii.cpp)                      | Medium     |
+| 1005  | [maximize-sum-of-array-after-k-negations](https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/)                                            | [C++](./algorithms/cpp/1005.maximize-sum-of-array-after-k-negations.cpp)                      | Easy     |
