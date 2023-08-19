@@ -125,3 +125,4 @@ LeetCode solution
 | 45  | [jump-game-ii](https://leetcode.com/problems/jump-game-ii/)                                            | [C++](./algorithms/cpp/45.jump-game-ii.cpp)                      | Medium     |
 | 1005  | [maximize-sum-of-array-after-k-negations](https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/)                                            | [C++](./algorithms/cpp/1005.maximize-sum-of-array-after-k-negations.cpp)                      | Easy     |
 | 134  | [gas-station](https://leetcode.com/problems/gas-station/)                                            | [C++](./algorithms/cpp/134.gas-station.cpp)                      | Medium     |
+| 135  | [candy](https://leetcode.com/problems/candy/)                                            | [C++](./algorithms/cpp/135.candy.cpp)                      | Hard     |
