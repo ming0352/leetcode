@@ -126,4 +126,5 @@ LeetCode solution
 | 1005  | [maximize-sum-of-array-after-k-negations](https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/)                                            | [C++](./algorithms/cpp/1005.maximize-sum-of-array-after-k-negations.cpp)                      | Easy     |
 | 134  | [gas-station](https://leetcode.com/problems/gas-station/)                                            | [C++](./algorithms/cpp/134.gas-station.cpp)                      | Medium     |
 | 135  | [candy](https://leetcode.com/problems/candy/)                                            | [C++](./algorithms/cpp/135.candy.cpp)                      | Hard     |
-| 860  | [lemonade-change](https://leetcode.com/problems/lemonade-change/)                                            | [C++](./algorithms/cpp/860.lemonade-change.cpp)                      | Hard     |
+| 860  | [lemonade-change](https://leetcode.com/problems/lemonade-change/)                                            | [C++](./algorithms/cpp/860.lemonade-change.cpp)                      | Easy     |
+| 406  | [queue-reconstruction-by-height](https://leetcode.com/problems/queue-reconstruction-by-height/)                                            | [C++](./algorithms/cpp/406.queue-reconstruction-by-height.cpp)                      | Medium     |
