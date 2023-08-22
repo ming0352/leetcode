@@ -18,5 +18,7 @@ class Solution {
                 index--;
             }
         }
-    };
-    // @lc code=end
+        return max_count;
+    }
+};
+// @lc code=end
