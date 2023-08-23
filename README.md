@@ -128,3 +128,4 @@ LeetCode solution
 | 135  | [candy](https://leetcode.com/problems/candy/)                                            | [C++](./algorithms/cpp/135.candy.cpp)                      | Hard     |
 | 860  | [lemonade-change](https://leetcode.com/problems/lemonade-change/)                                            | [C++](./algorithms/cpp/860.lemonade-change.cpp)                      | Easy     |
 | 406  | [queue-reconstruction-by-height](https://leetcode.com/problems/queue-reconstruction-by-height/)                                            | [C++](./algorithms/cpp/406.queue-reconstruction-by-height.cpp)                      | Medium     |
+| 452  | [minimum-number-of-arrows-to-burst-balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/)                                            | [C++](./algorithms/cpp/452.minimum-number-of-arrows-to-burst-balloons.cpp)                      | Medium     |
