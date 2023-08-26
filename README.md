@@ -131,3 +131,5 @@ LeetCode solution
 | 452  | [minimum-number-of-arrows-to-burst-balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/)                                            | [C++](./algorithms/cpp/452.minimum-number-of-arrows-to-burst-balloons.cpp)                      | Medium     |
 | 435  | [non-overlapping-intervals](https://leetcode.com/problems/non-overlapping-intervals/)                                            | [C++](./algorithms/cpp/435.non-overlapping-intervals.cpp)                      | Medium     |
 | 763  | [partition-labels](https://leetcode.com/problems/partition-labels/)                                            | [C++](./algorithms/cpp/763.partition-labels.cpp)                      | Medium     |
+| 763  | [partition-labels](https://leetcode.com/problems/partition-labels/)                                            | [C++](./algorithms/cpp/763.partition-labels.cpp)                      | Medium     |
+| 56  | [merge-intervals](https://leetcode.com/problems/merge-intervals/)                                            | [C++](./algorithms/cpp/56.merge-intervals.cpp)                      | Medium     |
