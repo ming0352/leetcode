@@ -133,3 +133,4 @@ LeetCode solution
 | 763  | [partition-labels](https://leetcode.com/problems/partition-labels/)                                            | [C++](./algorithms/cpp/763.partition-labels.cpp)                      | Medium     |
 | 763  | [partition-labels](https://leetcode.com/problems/partition-labels/)                                            | [C++](./algorithms/cpp/763.partition-labels.cpp)                      | Medium     |
 | 56  | [merge-intervals](https://leetcode.com/problems/merge-intervals/)                                            | [C++](./algorithms/cpp/56.merge-intervals.cpp)                      | Medium     |
+| 738  | [monotone-increasing-digits](https://leetcode.com/problems/monotone-increasing-digits/)                                            | [C++](./algorithms/cpp/738.monotone-increasing-digits.cpp)                      | Medium     |
