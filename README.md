@@ -137,3 +137,4 @@ LeetCode solution
 | 968  | [binary-tree-cameras](https://leetcode.com/problems/binary-tree-cameras/)                                            | [C++](./algorithms/cpp/968.binary-tree-cameras.cpp)                      | Hard     |
 | 63  | [unique-paths-ii](https://leetcode.com/problems/unique-paths-ii/)                                            | [C++](./algorithms/cpp/63.unique-paths-ii.cpp)                      | Medium     |
 | 343  | [integer-break](https://leetcode.com/problems/integer-break/)                                            | [C++](./algorithms/cpp/343.integer-break.cpp)                      | Medium     |
+| 63  | [unique-paths-ii](https://leetcode.com/problems/unique-paths-ii/)                                            | [C++](./algorithms/cpp/63.unique-paths-ii.cpp)                      | Medium     |
