@@ -138,3 +138,4 @@ LeetCode solution
 | 63  | [unique-paths-ii](https://leetcode.com/problems/unique-paths-ii/)                                            | [C++](./algorithms/cpp/63.unique-paths-ii.cpp)                      | Medium     |
 | 343  | [integer-break](https://leetcode.com/problems/integer-break/)                                            | [C++](./algorithms/cpp/343.integer-break.cpp)                      | Medium     |
 | 63  | [unique-paths-ii](https://leetcode.com/problems/unique-paths-ii/)                                            | [C++](./algorithms/cpp/63.unique-paths-ii.cpp)                      | Medium     |
+| 416  | [partition-equal-subset-sum](https://leetcode.com/problems/partition-equal-subset-sum/)                                            | [C++](./algorithms/cpp/416.partition-equal-subset-sum.cpp)                      | Medium     |
