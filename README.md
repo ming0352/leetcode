@@ -142,3 +142,4 @@ LeetCode solution
 | 1049  | [last-stone-weight-ii](https://leetcode.com/problems/last-stone-weight-ii/)                                            | [C++](./algorithms/cpp/1049.last-stone-weight-ii.cpp)                      | Medium     |
 | 494  | [target-sum](https://leetcode.com/problems/target-sum/)                                            | [C++](./algorithms/cpp/494.target-sum.cpp)                      | Medium     |
 | 474  | [ones-and-zeroes](https://leetcode.com/problems/ones-and-zeroes/)                                            | [C++](./algorithms/cpp/474.ones-and-zeroes.cpp)                      | Medium     |
+| 518  | [coin-change-ii](https://leetcode.com/problems/coin-change-ii/)                                            | [C++](./algorithms/cpp/518.coin-change-ii.cpp)                      | Medium     |
