@@ -144,3 +144,4 @@ LeetCode solution
 | 474  | [ones-and-zeroes](https://leetcode.com/problems/ones-and-zeroes/)                                            | [C++](./algorithms/cpp/474.ones-and-zeroes.cpp)                      | Medium     |
 | 518  | [coin-change-ii](https://leetcode.com/problems/coin-change-ii/)                                            | [C++](./algorithms/cpp/518.coin-change-ii.cpp)                      | Medium     |
 | 377  | [combination-sum-iv](https://leetcode.com/problems/combination-sum-iv/)                                            | [C++](./algorithms/cpp/377.combination-sum-iv.cpp)                      | Medium     |
+| 322  | [coin-change](https://leetcode.com/problems/coin-change/)                                            | [C++](./algorithms/cpp/322.coin-change.cpp)                      | Medium     |
