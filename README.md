@@ -145,3 +145,4 @@ LeetCode solution
 | 518  | [coin-change-ii](https://leetcode.com/problems/coin-change-ii/)                                            | [C++](./algorithms/cpp/518.coin-change-ii.cpp)                      | Medium     |
 | 377  | [combination-sum-iv](https://leetcode.com/problems/combination-sum-iv/)                                            | [C++](./algorithms/cpp/377.combination-sum-iv.cpp)                      | Medium     |
 | 322  | [coin-change](https://leetcode.com/problems/coin-change/)                                            | [C++](./algorithms/cpp/322.coin-change.cpp)                      | Medium     |
+| 279  | [perfect-squares](https://leetcode.com/problems/perfect-squares/)                                            | [C++](./algorithms/cpp/279.perfect-squares.cpp)                      | Medium     |
