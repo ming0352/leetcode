@@ -146,3 +146,4 @@ LeetCode solution
 | 377  | [combination-sum-iv](https://leetcode.com/problems/combination-sum-iv/)                                            | [C++](./algorithms/cpp/377.combination-sum-iv.cpp)                      | Medium     |
 | 322  | [coin-change](https://leetcode.com/problems/coin-change/)                                            | [C++](./algorithms/cpp/322.coin-change.cpp)                      | Medium     |
 | 279  | [perfect-squares](https://leetcode.com/problems/perfect-squares/)                                            | [C++](./algorithms/cpp/279.perfect-squares.cpp)                      | Medium     |
+| 139  | [word-break](https://leetcode.com/problems/word-break/)                                            | [C++](./algorithms/cpp/139.word-break.cpp)                      | Medium     |
