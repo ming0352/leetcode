@@ -147,3 +147,4 @@ LeetCode solution
 | 322  | [coin-change](https://leetcode.com/problems/coin-change/)                                            | [C++](./algorithms/cpp/322.coin-change.cpp)                      | Medium     |
 | 279  | [perfect-squares](https://leetcode.com/problems/perfect-squares/)                                            | [C++](./algorithms/cpp/279.perfect-squares.cpp)                      | Medium     |
 | 139  | [word-break](https://leetcode.com/problems/word-break/)                                            | [C++](./algorithms/cpp/139.word-break.cpp)                      | Medium     |
+| 198  | [house-robber](https://leetcode.com/problems/house-robber/)                                            | [C++](./algorithms/cpp/198.house-robber.cpp)                      | Medium     |
