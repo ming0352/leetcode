@@ -148,3 +148,4 @@ LeetCode solution
 | 279  | [perfect-squares](https://leetcode.com/problems/perfect-squares/)                                            | [C++](./algorithms/cpp/279.perfect-squares.cpp)                      | Medium     |
 | 139  | [word-break](https://leetcode.com/problems/word-break/)                                            | [C++](./algorithms/cpp/139.word-break.cpp)                      | Medium     |
 | 198  | [house-robber](https://leetcode.com/problems/house-robber/)                                            | [C++](./algorithms/cpp/198.house-robber.cpp)                      | Medium     |
+| 213  | [house-robber-ii](https://leetcode.com/problems/house-robber-ii/)                                            | [C++](./algorithms/cpp/213.house-robber-ii.cpp)                      | Medium     |
