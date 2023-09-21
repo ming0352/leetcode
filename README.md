@@ -149,3 +149,4 @@ LeetCode solution
 | 139  | [word-break](https://leetcode.com/problems/word-break/)                                            | [C++](./algorithms/cpp/139.word-break.cpp)                      | Medium     |
 | 198  | [house-robber](https://leetcode.com/problems/house-robber/)                                            | [C++](./algorithms/cpp/198.house-robber.cpp)                      | Medium     |
 | 213  | [house-robber-ii](https://leetcode.com/problems/house-robber-ii/)                                            | [C++](./algorithms/cpp/213.house-robber-ii.cpp)                      | Medium     |
+| 337  | [house-robber-iii](https://leetcode.com/problems/house-robber-iii/)                                            | [C++](./algorithms/cpp/337.house-robber-iii.cpp)                      | Medium     |
