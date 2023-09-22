@@ -150,3 +150,4 @@ LeetCode solution
 | 198  | [house-robber](https://leetcode.com/problems/house-robber/)                                            | [C++](./algorithms/cpp/198.house-robber.cpp)                      | Medium     |
 | 213  | [house-robber-ii](https://leetcode.com/problems/house-robber-ii/)                                            | [C++](./algorithms/cpp/213.house-robber-ii.cpp)                      | Medium     |
 | 337  | [house-robber-iii](https://leetcode.com/problems/house-robber-iii/)                                            | [C++](./algorithms/cpp/337.house-robber-iii.cpp)                      | Medium     |
+| 121  | [best-time-to-buy-and-sell-stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)                                            | [C++](./algorithms/cpp/121.best-time-to-buy-and-sell-stock.cpp)                      | Easy     |
